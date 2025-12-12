@@ -1,0 +1,13 @@
+body {
+    background-color:burlywood
+}
+h1 {
+    text-align: center
+}
+p{
+    font-weight: 600
+}
+
+.div-style {
+    float:left; width:50%;
+}
